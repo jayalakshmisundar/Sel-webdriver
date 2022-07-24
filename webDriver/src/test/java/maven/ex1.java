@@ -57,7 +57,7 @@ public class ex1 {
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//*[@id='welcome-menu']/ul/li[3]/a")).click();	
 	  System.out.println("push");
-	  System.out.println("pull");
+	 
   }
 
 
